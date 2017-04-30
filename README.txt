@@ -38,5 +38,12 @@ Step 5: Go to https://console.aws.amazon.com/lambda and ensure region in top rig
     5h: Click Next and "Create Function"
 Step 6: Copy check_queue.py into your working directory
     6a: Enter YOUR Access key, access secret, region(ex.) "us-east-1" ), and queue url. 
+    6b: The "message" will be your intent name
 Step 7: For testing create a skill as depicted in skill_info.png and Screenshot from 2017-04-30 19-03-01.png
+    7a: Enter your Lambda ARN URL into the corrct field in the configuration tab.
     7b: To initiate the skill say "Alexa ... Ask vace[vase] First Scan" Where "vace[vase]" is the skill name, "First" is replaced by any other intent name, and "Scan" is replaced by anything written in the samples for the intent name.
+
+
+Future use:
+1.) Enable a skill to take in an undefined string and process it
+2.) Change the check_queue.py to run in the crontab to constantly check instead of running as an infinite loop
