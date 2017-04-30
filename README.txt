@@ -1,4 +1,4 @@
-Watcha Need:
+Required items:
 Amazon Alexa
 Amazon account
 Computer with Linux OS
