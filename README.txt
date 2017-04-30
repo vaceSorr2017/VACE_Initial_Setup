@@ -1,15 +1,3 @@
-gmail account:
-usna2017vace@gmail.com
-password: vace2017
-
-github:
-vaceSorr2017
-password: vace2017
-
-amazon account:
-account:
-password:
-
 Watcha Need:
 Amazon Alexa
 Amazon account
